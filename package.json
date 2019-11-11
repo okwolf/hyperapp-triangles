@@ -1,0 +1,11 @@
+{
+  "name": "hyperapp-triangles",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx srvs"
+  },
+  "dependencies": {
+    "hyperapp": "2.0.3"
+  }
+}
